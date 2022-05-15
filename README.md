@@ -1,3 +1,1 @@
-#### Values JS
-
-[values.js](https://github.com/noeldelgado/values.js)
+Color Generator single page application made with react
